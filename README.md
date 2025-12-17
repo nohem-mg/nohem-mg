@@ -4,7 +4,7 @@
 
 [![Follow me](https://img.shields.io/github/followers/nohem-mg?label=Follow&style=social)](https://github.com/nohem-mg)
 [![Email Me](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:nohem.monnetgani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nohem-monnet-gani/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nohem-mg/)
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Quant%20Dev%20%26%20Web3&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32)
 
