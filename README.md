@@ -54,7 +54,7 @@ Passionate about Web3.0 • Co-founder [@ARKAD](https://github.com/nohem-mg) •
 |---------|-------------|------------|
 | **Cross-Asset Correlation Matrix** | Multi-asset correlation analysis tool (Crypto, Stocks, ETFs, Gold) | Python, CoinGeckoAPI, Yahoo Finance |
 | **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
-| **12th MAN** | Project at Chiliz Hackathon - Fan engagement tokenization | React, TypeScript, Chiliz Chain |
+| **12th MAN** | Project at Chiliz Hackathon - Fan-to-club lending dApp on the Chiliz Chain | React, TypeScript, Chiliz Chain |
 
 </div>
 
