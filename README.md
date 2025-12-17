@@ -8,8 +8,8 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Quant%20Dev%20%26%20Web3&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-**Quantitative Finance • Blockchain Development • Data Science**  
-Co-founder [@ARKAD](https://github.com/nohem-mg) • Economics & Finance Student • ETHGlobal Hacker
+**Generalist Economist Student • Blockchain & DeFi Builder**  
+Passionate about Web3.0 • Co-founder [@ARKAD](https://github.com/nohem-mg) • Looking for new experiences
 
 </div>
 
@@ -33,10 +33,10 @@ Co-founder [@ARKAD](https://github.com/nohem-mg) • Economics & Finance Student
 
 ## Current Focus
 
-📊 **Quantitative Research** - Cross-asset correlation analysis & portfolio optimization  
-🎮 **Building ARKAD** - Co-founder of skill-based Web3 gaming platform  
-🏆 **Shipping for ETHGlobal NY** - Next-gen DeFi protocols  
-💼 **Economics & Finance** - Studying at Université Catholique de Lille
+🌐 **Exploring Web3.0** - Building in DeFi & blockchain ecosystems  
+🎮 **Co-founding ARKAD** - Skill-based Web3 gaming platform  
+📊 **Economics & Finance** - Applying economic theory to crypto markets  
+🔍 **Seeking opportunities** - Open to new experiences in blockchain space
 
 ---
 
@@ -56,10 +56,9 @@ Co-founder [@ARKAD](https://github.com/nohem-mg) • Economics & Finance Student
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 📊 **Cross-Asset Correlation Matrix** | Multi-asset correlation analysis tool (Crypto, Stocks, ETFs, Gold) | Python, Pandas, NumPy, Matplotlib |
-| 🎮 **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
-| 🏆 **12th MAN** | Finalist at Chiliz x PSG Hackathon - Fan engagement tokenization | React, TypeScript, Chiliz Chain |
-| 📈 **Quant Finance Tools** | Portfolio optimization & risk analysis algorithms | Python, Scipy, Statsmodels |
+| **Cross-Asset Correlation Matrix** | Multi-asset correlation analysis tool (Crypto, Stocks, ETFs, Gold) | Python, CoinGeckoAPI, Yahoo Finance |
+| **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
+| **12th MAN** | Finalist at Chiliz x PSG Hackathon - Fan engagement tokenization | React, TypeScript, Chiliz Chain |
 
 </div>
 
@@ -67,9 +66,9 @@ Co-founder [@ARKAD](https://github.com/nohem-mg) • Economics & Finance Student
 
 <div align="center">
 
-### 💬 Let's build something together
+### 💬 Open to new opportunities
 
-**Open to collaborations on Quant Finance, DeFi protocols & Data-driven Web3 projects**
+**Looking for experiences in Web3.0, DeFi protocols & Blockchain innovation**
 
 ![](https://komarev.com/ghpvc/?username=nohem-mg&color=blueviolet&style=flat-square)
 
