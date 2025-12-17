@@ -21,8 +21,6 @@ Passionate about Web3.0 • Co-founder [@ARKAD](https://github.com/nohem-mg) •
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -48,25 +46,15 @@ Passionate about Web3.0 • Co-founder [@ARKAD](https://github.com/nohem-mg) •
 
 ---
 
-## 2025 Contributions
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nohem-mg&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Featured Work
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 📊 **Cross-Asset Correlation Matrix** | Multi-asset correlation analysis tool (Crypto, Stocks, ETFs, Gold) | Python, CoinGeckoAPI, Yahoo Finance |
-| 🎮 **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
-| 🏆 **12th MAN** | Finalist at Chiliz x PSG Hackathon - Fan engagement tokenization | React, TypeScript, Chiliz Chain |
+| **Cross-Asset Correlation Matrix** | Multi-asset correlation analysis tool (Crypto, Stocks, ETFs, Gold) | Python, CoinGeckoAPI, Yahoo Finance |
+| **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
+| **12th MAN** | Project at Chiliz Hackathon - Fan engagement tokenization | React, TypeScript, Chiliz Chain |
 
 </div>
 
